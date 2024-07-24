@@ -1,14 +1,15 @@
 ---
-title: 'Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity'
+title: "Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper uses causal analysis and machine learning to study business practices in liquid asset management.'
-date: 2024-06
+date: 2024-06-01
 venue: 'PKU Master Thesis'
-slidesurl: 'https://drive.google.com/drive/u/1/folders/13_AkrPU2AwqYV5nyqP-PcJ7CPewwvUnK'
-paperurl: 'https://drive.google.com/drive/u/1/folders/13_AkrPU2AwqYV5nyqP-PcJ7CPewwvUnK'
+slidesurl: 'https://drive.google.com/file/d/1a-52DwSoYqFF-w4YhCgWKCIib4mO68yI/view?usp=sharing'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Visantavarakul, K. (2024). &quot;Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity.&quot; [Master's Thesis, Peking University HSBC Business School]. https://drm.lib.pku.edu.cn/pdfindex1.jsp?fid=431813afd1f97101532a4a1f2d9a9b10'
 ---
+
 
 **Managerial Summary**:  
 1️⃣ **Statistical Modelling:** Based on causal analysis, Thai firms accumulated 15% of cash assets due to cash profitability, increasing 6%-12% goodness of fit (RStudio). The data source is accounting and financial data from 300 firms listed in Stock Exchange of Thailand over the past 20 years queried by Bloomberg Terminal, and cleaned using Python.  
