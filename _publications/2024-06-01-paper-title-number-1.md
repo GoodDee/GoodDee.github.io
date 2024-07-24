@@ -10,7 +10,6 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Visantavarakul, K. (2024). &quot;Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity.&quot; [Master's Thesis, Peking University HSBC Business School]. https://drm.lib.pku.edu.cn/pdfindex1.jsp?fid=431813afd1f97101532a4a1f2d9a9b10'
 ---
 
-
 **Managerial Summary**:  
 1️⃣ **Statistical Modelling:** Based on causal analysis, Thai firms accumulated 15% of cash assets due to cash profitability, increasing 6%-12% goodness of fit (RStudio). The data source is accounting and financial data from 300 firms listed in Stock Exchange of Thailand over the past 20 years queried by Bloomberg Terminal, and cleaned using Python.  
 2️⃣ **Machine Learning:** Developed Kalman Filter algorithms (Python) computational program on time-series data to estimate firm operational risk factors in 29 firm groups, marginally increasing 1-2% goodness of fit in modeling corporate liquidity management.  
