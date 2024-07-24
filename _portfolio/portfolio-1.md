@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research Assistant (Insurance)"
+excerpt: "Research assistant in product development on Tontine, innovative type of life insurance to address ageing society issue."
 collection: work portfolio
 ---
 
