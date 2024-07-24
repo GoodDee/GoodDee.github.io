@@ -3,7 +3,7 @@ title: "Cash Profitability in Corporate Liquidity Management with Cross-sectiona
 collection: publications
 permalink: /publication/2024-06-01-paper-title-number-1
 excerpt: 'This paper uses causal analysis and machine learning to study business practices in liquid asset management.'
-date: 2024-06-01
+date: '2024-06-01'
 venue: 'PKU Master Thesis'
 slidesurl: 'https://drive.google.com/file/d/1a-52DwSoYqFF-w4YhCgWKCIib4mO68yI/view?usp=sharing'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
