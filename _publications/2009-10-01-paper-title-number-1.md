@@ -1,5 +1,5 @@
 ---
-title: "Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity"
+title: 'Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity'
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper uses causal analysis and machine learning to study business practices in liquid asset management.'
