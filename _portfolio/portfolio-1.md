@@ -1,5 +1,5 @@
 ---
-title: "Research Assistant (Insurance)"
+title: "Research Assistant for Capital Market Research Institute (Insurance)"
 excerpt: "Research assistant in product development on Tontine, innovative type of life insurance to address ageing society issue."
 collection: work portfolio
 ---
