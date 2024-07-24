@@ -4,4 +4,9 @@ excerpt: "Data analyst Developing API for Digital Transformation in Financial In
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Employer**: [Techberry Company Limited](https://web.techberry.tech/)  
+**Responsibility**: Data Analyst (May 2021 – Feb 2022)  
+**Quick Summaries:**  
+:one: **Dashboard Development:** Delivered dashboard (Kibana) to monitor API usage of 4 financial institutions to report suggested actions to software engineering team based on summary statistics of daily usage patterns, required processing time per transaction and error logs  
+:two: **Mini-program Development**: Facilitated mobile banking application development pipeline based on directed acyclic graph (DAG: Graph Theory) in developing mini-programs as Google Sheet add-ons. Due to front-end drop-down features, the planning time for application development reduced by 50%  
+:three: **Data Analysis:** Performed statistical modelling on server usage data (semi-structured 1M data points, 3-month period, 4 financial institutions) as technical documents to software engineering team and executive summary to senior management, and conducted statistical simulation to provide personalized recommendations on service purchasing decisions   
