@@ -6,7 +6,7 @@ excerpt: 'This paper uses causal analysis and machine learning to study business
 date: 2024-06-01
 venue: 'PKU Master Thesis'
 slidesurl: 'https://drive.google.com/file/d/1a-52DwSoYqFF-w4YhCgWKCIib4mO68yI/view?usp=sharing'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://drive.google.com/file/d/1DyAnh_3fY-qcovFI2gR76mB8UdBIEcOZ/view?usp=sharing'
 citation: 'Visantavarakul, K. (2024). &quot;Cash Profitability in Corporate Liquidity Management with Cross-sectional Heterogeneity.&quot; [Master Thesis, Peking University HSBC Business School]. https://drm.lib.pku.edu.cn/pdfindex1.jsp?fid=431813afd1f97101532a4a1f2d9a9b10'
 ---
 
