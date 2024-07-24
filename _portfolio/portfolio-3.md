@@ -1,6 +1,6 @@
 ---
 title: "Data Analyst for SKY ICT Public Company Limited (Information System)"
-excerpt: "Data analyst Providing Business Intelligence to Enhance Airline Operations [Company Website](https://www.skyict.co.th/en)"
+excerpt: "Data analyst Providing Business Intelligence to Enhance AOT Airline Operations [Company Website](https://www.skyict.co.th/en)"
 collection: portfolio
 ---
 
