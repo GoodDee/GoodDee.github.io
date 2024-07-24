@@ -1,6 +1,6 @@
 ---
 title: "Data Analyst for Techberry Company Limited (Information System)"
-excerpt: "Data analyst Developing API for Digital Transformation in Financial Institutions"
+excerpt: "Data analyst Developing API for Digital Transformation in Financial Institutions [Company Website](https://web.techberry.tech/)"
 collection: portfolio
 ---
 
