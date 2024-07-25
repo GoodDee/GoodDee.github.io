@@ -22,7 +22,7 @@ Technical Skills
 
 Join US
 ======
-🚩 **My Philosophy**: It is not enough _for data analysts_ to detect patterns using _machine learning_; theory is essential _for problem solving_.  
+🚩 **My Philosophy**: It is not enough (_for data analysts_) to detect patterns using (_machine learning_); (_Economics_) theory is essential (_for problem solving_).  
 Source: Adapted from Tom Sargent's keynote address on Economics Model. [Youtube Video](https://www.youtube.com/watch?v=0Mf_LvwxFqY)  
   
 Contact US  
