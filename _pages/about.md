@@ -16,9 +16,9 @@ redirect_from:
   
 Technical Skills
 ======
-💻 **Data Science Programming**: SQL, Python, R, Matlab, Mathematica, LaTeX
-📊 **Big Data Visualization Tools**: Tableau, Kibana, Matplotlib, Vega-Altair
-📖 **Languages**: English (IELTS 8.0, GMAT 700), Chinese (HSK6), Thai
+💻 **Data Science Programming**: SQL, Python, R, Matlab, Mathematica, LaTeX  
+📊 **Big Data Visualization Tools**: Tableau, Kibana, Matplotlib, Vega-Altair  
+📖 **Languages**: English (IELTS 8.0, GMAT 700), Chinese (HSK6), Thai  
 
 Join US
 ======
