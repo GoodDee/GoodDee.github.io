@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙋 Dee's Portfolio"
+title: "Dee's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
