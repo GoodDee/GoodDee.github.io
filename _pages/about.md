@@ -22,15 +22,19 @@ Technical Skills
 
 Work In Progress
 ======  
-**Book Project**: Masters Thesis from Scratch (open-sourced educational projects)  
+**Open-Sourced Educational Project**: Masters Thesis from Scratch    
 _Short Description_: A how-to guide book on how to write master thesis in business management from my extensive research and teaching experiences.  
 Find out more: [Project Link](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch)  
-**Computational Economics**: Macro-Finance project    
-_Short Description_: During my Masters study, I have taken several courses on Macroeconomics (Business cycle theory, search and matching) and Financial Economics (asset pricing). Let's see how ideas will work out.  
+**Economics Computation Project**: Macro-Finance computational project    
+_Short Description_: Approach business problems via Macroeconomics and Finance.  
+Part I is modern Real Business Cycle to increase behavioral responses to productivity shocks  
+Part II is macro-finance asset pricing to simultaneously address equity premium puzzle and risk-free rate puzzle  
+Find out more: [Project Link](https://gooddee.github.io/publication/2024-07-01-paper-title-number-1)  
 **Reading Blogs**: Financial Economics & Econometrics  
 _Short Description_: I may write blog posts on books/papers/personal ideas about Financial Economics or Econometrics (Statistics).  
 **Next Online Course**: Statistical Inference & Modeling  
-_Short Description_: Next course followed by my online course on probability theory (undergraduate-level)
+_Short Description_: Next course followed by my online course on probability theory (undergraduate-level)  
+**Open to more suggestions via email: kantapong_deeconstruct@outlook.com**
 
 Join US
 ======
