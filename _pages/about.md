@@ -29,7 +29,7 @@ Find out more: [Project Link](https://www.facebook.com/iceconomist)
 _Short Description_: Produce an educational material for general audience (article), and conduct research.  
 _My Research Style_: Focus on Economics intuition and simple methods, not advanced deep learning stuff  
 _Need an Assistant?_: Contact me at kantapong_deeconstruct@outlook.com  
-Find outmore: [Project Link](https://gooddee.github.io/publications/)
+Find out more: [Project Link](https://gooddee.github.io/publications/)
 
 Idle Projects  
 =====  
